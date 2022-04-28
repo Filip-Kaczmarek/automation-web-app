@@ -1,0 +1,177 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    align: center;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #3f7d91 #cfe0e8;
+}
+
+h1{
+    text-align: center;
+    background-color: #095b75;
+    color: white;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+#subtitle{
+    font-size: 26px;
+}
+
+#description{
+    background-color: #b7d7e8;
+    text-align: justify;
+    padding: 20px 60px 20px 60px;
+}
+
+#block{
+    width: 100%;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.slider{
+    text-align: center;
+    width: 60px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: none;
+}
+
+.sliders{
+    margin: auto;
+    background-color: #b7d7e8;
+    padding: 20px 20px 20px 20px;
+    border-radius: 4px;
+    width: 35%;
+    float: left;
+}
+
+.temperature{
+    padding: 10px 0px 15px 0px;
+    width: 50%;
+    margin: auto;
+    border-radius: 4px;
+    font-size: 18px;
+}
+
+.parameters{
+    font-size: 14px;
+}
+
+.left{
+    float: left;
+    text-align: left;
+    padding: 0px 20px 0px 20px;
+}
+
+.right{
+    float: left;
+    text-align: left;
+    padding: 0px 20px 0px 20px;
+}
+
+#legend_title{
+    font-size: 18px;
+}
+
+.legend{
+    text-align: left;
+    margin: auto;
+    float: left;
+    min-height: 100%;
+    height: 100%;
+    font-size: 15px;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #cdd1d7;
+    padding: 20px 20px 20px 20px;
+    border-radius: 4px;
+}
+
+#loading{
+    clear: both;
+}
+
+#loading1{
+    clear: both;
+}
+
+#loading_icon{
+    float: left;
+}
+
+#loading_icon1{
+    float: left;
+}
+
+.regulation_block{
+    font-size: 16px;
+    text-align: left;
+    float: left;
+    width: 50%;
+    padding-left: 18%;
+    padding-top: 30px;
+}
+
+.regulation{
+    width: 45%;
+    font-size: 15px;
+    background-color: #cdd1d7;
+    padding: 20px 20px 20px 20px;
+    border-radius: 4px;
+}
+
+.graph_display{
+    width:50%;
+    float: left;
+}
+
+#the_graph{
+    width:85%;
+    height: 1000px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+#the_graph1{
+    width:85%;
+    height: 1000px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+#alert-auto{
+    margin-top: 30px;
+}
+
+#alert-auto1{
+    margin-top: 30px;
+}
+
+#submit-button-state{
+    background-color: #095b75;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#submit-button-state1{
+    background-color: #095b75;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#footer{
+    clear: both;
+    font-size: 15px;
+    background-color: #b7d7e8;
+    margin-bottom: 0px;
+}
